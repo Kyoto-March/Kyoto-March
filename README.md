@@ -2,7 +2,7 @@
 
 ### A Master's student at Kyoto University
 
-- 🔭 I'm currently working on **Discrete Mathematics** **MAPF**
+- 🔭 I'm currently working on **Discrete Mathematics**,**MAPF**
 
 - 🌱 I'm currently learning **Graphy theory**
 
