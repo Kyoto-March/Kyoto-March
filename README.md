@@ -1,6 +1,6 @@
 # Hi 👋, I'm March
 
-### A Master's student at Kyoto University
+### A Master's student
 
 - 🔭 I'm currently working on **Discrete Mathematics**,**MAPF**
 
